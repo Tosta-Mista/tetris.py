@@ -1,0 +1,28 @@
+# Tetris Game
+## Introduction
+Is a simple tetris clone. I can do this program with the incredible tutorial about PySide.
+
+## Dependencies
+* PySide
+* PyQt4
+* Python 2.7
+
+## Install
+Clone the repo :
+  git clone git@github.com:Tosta-Mixta/tetris.py.git
+
+Install pyside :
+  sudo apt-get install pyside-tools
+
+Install PyQt4 :
+  sudo apt-get install pyqt4-dev-tools
+
+Launch app :
+  python tetris.py
+
+## Next Steps :
+* Create levels.
+* Create Score grid.
+* Create Highscore.
+* Create a real menu.
+
